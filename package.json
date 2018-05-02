@@ -1,0 +1,14 @@
+{
+  "name": "fowlfive",
+  "version": "1.0.0-alpha-1",
+  "description": "a function to calculate the Fowl Five Index of Cryptocurrencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "author": "Dan McKeown <2018@sf3am.com>",
+  "license": "ISC"
+}
