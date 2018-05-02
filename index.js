@@ -1,4 +1,4 @@
-//  getFowlFiveIndexV1.js
+//  getFowlFiveIndexV1 index.js
 //  This is the forumula for calculating the Fowl Five Index of Cryptos
 //  http://danmckeown.info/fowlfive
 //  copyright Jan-April 2018 by Dan McKeown Licensed under the ISC License
