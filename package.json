@@ -1,6 +1,6 @@
 {
   "name": "fowlfive",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a function to calculate the Fowl Five Index of Cryptocurrencies",
   "main": "index.js",
   "scripts": {
