@@ -1,4 +1,4 @@
-//  test suite for fowlfive
+//  test suite for fowlfive module
 //  copyright 2018 by http://danmckeown.info licensed under ISC license
 //  Jest tests: `npm run jest`
 
