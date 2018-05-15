@@ -20,10 +20,15 @@ a module with the formula for calculating the [Fowl Five Index](https://djmblog.
 
 `
   let btc = new cryptoCur("Bitcoin", 8867, 150689347341);
+
   let eth = new cryptoCur("Ether", 633, 62681647244);
+
   let bch = new cryptoCur("Bitcoin Cash", 1228, 20987488920);
+
   let ltc = new cryptoCur("Litecoin", 148, 8310353275);
+
   let dsh = new cryptoCur("Dash", 466, 3741707233);
+  
   let fowlfiveindex = getFowlFiveIndexV1(btc, eth, bch, ltc, dsh);
 `
 
