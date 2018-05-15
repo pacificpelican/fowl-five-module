@@ -1,6 +1,6 @@
 {
   "name": "fowlfive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a function to calculate the Fowl Five Index of Cryptocurrencies",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,9 @@
     "jest": "^22.4.3"
   },
   "author": "Dan McKeown <2018@sf3am.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/pacificpelican/fowl-five-module"
+  }
 }
