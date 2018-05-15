@@ -18,7 +18,7 @@ a module with the formula for calculating the [Fowl Five Index](https://djmblog.
 `import getFowlFiveIndexV1 from "fowlfive";`
 
 
-- Then the formula can be calcuating by creating objects for each crypto and using them as arguments to the function getFowlFiveIndexV1:
+- Then the formula can be calcuated by creating objects for each crypto and using them as arguments to the function getFowlFiveIndexV1:
 
   `let btc = new cryptoCur("Bitcoin", 8867, 150689347341);`
 
